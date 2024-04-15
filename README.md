@@ -4,9 +4,6 @@
 - Analista de Dados formada em Engenharia de Produção
 - Atualmente cursando MBA em BI & Data Science
 
-## 🚀 Objetivo Profissional
-Atuar como Analista de Dados Pleno em uma organização onde minhas competências analíticas, criatividade na solução de problemas e colaboração possam impulsionar resultados de forma eficaz.
-
 ## 🌱 Atualmente Aprendendo e Me Aprimorando
 - GitHub (Estou começando!)
 - SQL
