@@ -2,7 +2,7 @@
 
 Sou Analista de Dados com formação em Engenharia de Produção e MBA em BI & Data Science. Atuo na interseção entre dados, estratégia e decisão — traduzindo números em insights práticos e acessíveis.
 
-Este repositório é meu espaço de aprendizado contínuo. Aqui você vai encontrar projetos, desafios e experimentos que refletem meu processo real de evolução técnica. Nada de perfeição: o foco aqui é progresso, curiosidade e consistência (com um empurrãozinho do ChatGPT quando o Git resolve me testar 😅).
+Este repositório é meu espaço de aprendizado contínuo. Aqui você vai encontrar projetos, desafios e experimentos que refletem meu processo real de evolução técnica. Nada de perfeição: o foco aqui é progresso, curiosidade e consistência.
 
 ---
 
